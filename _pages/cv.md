@@ -3,13 +3,12 @@ layout: archive
 title: ""
 permalink: /cv/
 author_profile: true
+redirect_from:
+  - /resume
 ---
-
-
 
 Education
 ======
-
 * Ph.D in Economics, Department of Economics, the Chinese University of Hong Kong, 2020 - present.
 
 * Bachelor in Economics, Lingnan College, Sun Yat-Sen University, 2016-2020. 
