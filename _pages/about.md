@@ -16,5 +16,5 @@ I specialize in econometric theory. My current research focuses on the applicati
 ## Contact 
 
 * **Email**: <span>`zwmei[`</span><span style="color:red">`at`</span><span>`]link.cuhk.edu.hk`</span>
-* **Contact**: (<span>`852`</span>) 9378 - 4643 
+* **Address**: 1017 Esther Lee Building, the Chinese University of Hong Kong, Shatin, New Territories, Hong Kong SAR, China
 
