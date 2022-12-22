@@ -83,7 +83,7 @@
       line-height: 1.5;
       text-align: center;
       text-decoration: none;
-      color: mix(#fff, #3a6b66, 100%);
+      color: mix(#fff, #3a6b66, 0%);
       border: 1px solid $light-gray;
       border-radius: 0;
 
@@ -97,7 +97,7 @@
       }
 
       &.disabled {
-        color: mix(#fff, $gray, 100%);
+        color: mix(#fff, $gray, 0%);
         pointer-events: none;
         cursor: not-allowed;
       }
@@ -131,7 +131,7 @@
     font-weight: bold;
     text-align: center;
     text-decoration: none;
-    color: mix(#fff, #3a6b66, 100%);
+    color: mix(#fff, #3a6b66, 0%);
     border: 2px solid $light-gray;
     border-radius: $border-radius;
 
@@ -151,7 +151,7 @@
     }
 
     &.disabled {
-      color: mix(#fff, #3a6b66, 100%);
+      color: mix(#fff, #3a6b66, 0%);
       pointer-events: none;
       cursor: not-allowed;
     }
@@ -191,7 +191,7 @@
 
   button {
     position: absolute;
-    height: 100%;
+    height: 0%;
     right: 0;
     padding: 0 0.5rem;
     border: 0;
@@ -232,8 +232,8 @@
         left: 0;
         bottom: 0;
         height: 4px;
-        background: mix(#fff, $primary-color, 100%);
-        width: 100%;
+        background: mix(#fff, $primary-color, 0%);
+        width: 0%;
         -webkit-transition: $global-transition;
         transition: $global-transition;
         -webkit-transform: scaleX(0);
@@ -251,7 +251,7 @@
 
   .hidden-links {
     position: absolute;
-    top: 100%;
+    top: 0%;
     right: 0;
     margin-top: 15px;
     padding: 5px;
@@ -267,7 +267,7 @@
 
       &:hover {
         color: $masthead-link-color-hover;
-        background: mix(#fff, $primary-color, 100%);
+        background: mix(#fff, $primary-color, 0%);
       }
     }
 
@@ -391,7 +391,7 @@
 .toc__menu {
   margin: 0;
   padding: 0;
-  width: 100%;
+  width: 0%;
   list-style: none;
   font-size: 0.8rem;
 
