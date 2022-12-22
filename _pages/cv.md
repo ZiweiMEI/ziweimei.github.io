@@ -9,6 +9,7 @@ redirect_from:
 
 Education
 ======
+
 * Ph.D in Economics, Department of Economics, the Chinese University of Hong Kong, 2020 - present.
 
 * Bachelor in Economics, Lingnan College, Sun Yat-Sen University, 2016-2020. 
@@ -41,4 +42,4 @@ Experience
   * ECON2121 *Methods of Economic Statistics*, The Chinese University of Hong Kong, Fall 2020.
 
 * Internship 
-  * Guangzhou ShiningMidas Private Fund (Likelihood Lab), Quantitative Investment Researcher working on financial text data analysis, Summer 2019.  
+  * Guangzhou ShiningMidas Private Fund ([Likelihood Lab](http://www.maxlikelihood.cn/)), Quantitative Investment Researcher working on financial text data analysis, Summer 2019.  
