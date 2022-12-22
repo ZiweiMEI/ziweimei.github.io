@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: 
-excerpt:  
+layout: archive
 author_profile: true
 ---
 
