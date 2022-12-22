@@ -41,6 +41,13 @@ Experience
      Fall 2022, Fall 2021, Spring 2020.
 * ECON2121 *Methods of Economic Statistics*, The Chinese University of Hong Kong, Fall 2020.
   
+
+
+
+
+
+
+
 * Internship 
   * Guangzhou ShiningMidas Private Fund (Likelihood Lab), Quantitative Investment Researcher working on financial text data analysis, Summer 2019.  
   
