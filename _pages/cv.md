@@ -34,7 +34,7 @@ Presentations
 Experience
 ======
 
-* Conferences
+* Teaching Assistant
   * ECON4120 *Applied Forecasting Methods*, The Chinese University of Hong Kong, Spring 2022.
   * ECON3121 *Introductory Econometrics*, The Chinese University of Hong Kong,
      Fall 2022, Fall 2021, Spring 2020.
