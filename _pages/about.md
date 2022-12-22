@@ -5,7 +5,7 @@ layout: archive
 author_profile: true
 ---
 
-# About Me
+
 
 I am currently a Ph.D. candidate at Department of Economics, the Chinese University of Hong Kong. Before joining CUHK, I obtained my bachelor degree in economics and my double degree in mathematics from Sun Yat-Sen Univerisity. 
 
