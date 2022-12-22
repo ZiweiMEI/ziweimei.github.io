@@ -131,8 +131,8 @@
     font-weight: bold;
     text-align: center;
     text-decoration: none;
-    color: mix(#fff, $gray, 50%);
-    border: 1px solid $light-gray;
+    color: mix(#fff, #3a6b66, 50%);
+    border: 2px solid $light-gray;
     border-radius: $border-radius;
 
     &:hover {
@@ -371,7 +371,7 @@
 
 .toc {
   font-family: $sans-serif-narrow;
-  color: $gray;
+  color: #3a6b66;
   text-transform: uppercase;
   letter-spacing: 1px;
   background-color: #fff;
@@ -398,8 +398,8 @@
   a {
     display: block;
     padding: 0.5rem 1rem;
-    color: $gray;
-    font-size: $type-size-7;
+    color: #3a6b66;
+    font-size: $type-size-syntax;
     font-weight: bold;
     line-height: 1.5;
     border-bottom: 1px solid $border-color;
