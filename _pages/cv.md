@@ -1,13 +1,11 @@
 ---
 layout: archive
-title: "CV"
+title: 
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
-
-{% include base_path %}
 
 Education
 ======
@@ -23,10 +21,13 @@ Presentations
 ======
 
 * Conferences
-  * 
+  * Computational and Financial Econometrics (CFE), King's College London, December 2022. 
+  * Computational and Methodological Statistics (CMStatistics), King's College London, December 2022. 
+  * The Asian Meeting of the Econometric Society (AMES), CUHKSZ, June 2022. 
+  * Chicago-Jinan IESR-HCEO Best Paper Competition, Jinan University, July 2019.
 
-* Seminar Talks 
-  * 
+* Seminars
+  * CUHK Brownbag Seminar, November 2022.
 
 Experience
 ======
