@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-## Education
+# Education
 
 * Ph.D in Economics, Department of Economics, the Chinese University of Hong Kong, 2020 - present.
 
@@ -17,7 +17,7 @@ redirect_from:
 
   
 
-## Presentations 
+# Presentations
 
 ### Conference
 
@@ -32,7 +32,7 @@ redirect_from:
 
   
 
-## Experience
+# Experience
 
 ### Teaching Assistant
 
