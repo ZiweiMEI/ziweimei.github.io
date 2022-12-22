@@ -40,5 +40,6 @@ Experience
   * ECON3121 \emph{Introductory Econometrics}, The Chinese University of Hong Kong,
      Fall 2022, Fall 2021, Spring 2020.
 * ECON2121 \emph{Methods of Economic Statistics}, The Chinese University of Hong Kong, Fall 2020.
+  * 
 * Internship
   * Guangzhou ShiningMidas Private Fund, Quantitative Investment Researcher working on financial text data analysis, Summer 2019.  
