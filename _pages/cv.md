@@ -44,4 +44,5 @@ Experience
   * ECON2121 *Methods of Economic Statistics*, The Chinese University of Hong Kong, Fall 2020.
 
 * Internship 
-  * Guangzhou ShiningMidas Private Fund ([Likelihood Lab](http://www.maxlikelihood.cn/)), Quantitative Investment Researcher working on financial text data analysis, Summer 2019.  
+  * Guangzhou ShiningMidas Private Fund ([Likelihood Lab](http://www.maxlikelihood.cn/)), *Quantitative Investment Researcher* on financial natural language processing, Summer 2019.  [[Gitee](https://gitee.com/likelihoodlab/NLP2019)]
+
