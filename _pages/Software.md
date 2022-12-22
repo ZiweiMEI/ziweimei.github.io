@@ -7,13 +7,17 @@ author_profile: true
 
 {% include base_path %}
 
-## Overidentifying Restriction Test in High Dimensions 
+## Packages for Papers 
 
-*  [Repo](https://github.com/ZiweiMEI/QTest)  
+### Overidentifying Restriction Test in High Dimensions 
 
-## The Boosted HP Filter
+* <span style="color:red">`R`</span> [[Repo](https://github.com/ZiweiMEI/QTest)]
 
-*  [MATLAB, Python, and Julia](https://github.com/zhentaoshi/Boosted_HP_filter/tree/master/) Codes
+  
+
+### The Boosted HP Filter
+
+* <span style="color:red">`MATLAB, Python & Julia`</span> [[Repo](https://github.com/zhentaoshi/Boosted_HP_filter/tree/master/)]
 * <span style="color:red">`ShinyApp`</span> [[Repo](https://github.com/metricshilab/Boosted_HP_App), [Interface](https://zwmei-metrics.shinyapps.io/boosted_hp_app/)]
 
 
