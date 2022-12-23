@@ -45,5 +45,23 @@ redirect_from:
 
 * Guangzhou ShiningMidas Private Fund ([Likelihood Lab](http://www.maxlikelihood.cn/)), *Quantitative Investment Researcher* on financial natural language processing (NLP), Summer 2019.  [[Gitee](https://gitee.com/likelihoodlab/NLP2019)]
 
+
+
+# Honors & Awards 
+
+* Best Academic Performance Award, Department of Economics, CUHK, 2020 - 2021.
+
+* Postgraduate Studentship, CUHK, 2020 - present. 
+
+* University-Level Outstanding Bachelor Thesis (in Economics), SYSU, June 2020. 
+
+* Excellent Bachelor Thesis (in Mathematics), SYSU, June 2020.
+
+* Chicago-Jinan Joint Plan Best Paper, Jinan University, July 2019. 
+
+* First-Class Excellence Scholarship, SYSU. 
+
+  
+
   
 
