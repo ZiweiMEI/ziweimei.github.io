@@ -19,7 +19,7 @@ redirect_from:
 
 # Presentations
 
-### Conference
+### Conferences
 
 * Computational and Financial Econometrics (CFE), Session CO224, King's College London, December 2022. 
 * Computational and Methodological Statistics (CMStatistics), Session EO050, King's College London, December 2022. 
@@ -30,7 +30,9 @@ redirect_from:
 
 * CUHK Brownbag Seminar, November 2022.
 
-  
+
+
+
 
 # Experience
 
