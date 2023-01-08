@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-[[PDF](ziweimei.github.io/cv.pdf)]
+[[PDF](http://ziweimei.github.io/cv.pdf)]
 
 # Education
 
