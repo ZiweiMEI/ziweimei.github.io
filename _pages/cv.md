@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 ---
 
+[[PDF](ziweimei.github.io/cv.pdf)]
+
 # Education
 
 * Ph.D in Economics, Department of Economics, the Chinese University of Hong Kong, 2020 - present.
@@ -32,8 +34,6 @@ redirect_from:
 
 
 
-
-
 # Experience
 
 ### Teaching Assistant
@@ -51,7 +51,7 @@ redirect_from:
 
 # Honors & Awards 
 
-* Best Academic Performance Award, Department of Economics, CUHK, 2020 - 2021.
+* Best Academic Performance Award, Department of Economics, CUHK.
 
 * Postgraduate Studentship, CUHK, 2020 - present. 
 
