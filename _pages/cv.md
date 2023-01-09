@@ -12,12 +12,15 @@ redirect_from:
 # Education
 
 * Ph.D in Economics, Department of Economics, the Chinese University of Hong Kong, 2020 - present.
-
 * Bachelor in Economics, Lingnan College, Sun Yat-Sen University, 2016-2020. 
-
 * Bachelor in Mathematics, School of Mathematics, Sun Yat-Sen University, 2018-2020. 
 
-  
+
+
+
+***
+
+
 
 # Presentations
 
@@ -32,13 +35,17 @@ redirect_from:
 
 * CUHK Brownbag Seminar, November 2022.
 
+***
+
 
 
 # Professional Services
 
-* Referee for *Journal of American Statistical Association*
+* **Referee** for *Journal of American Statistical Association*.
 
-  
+***
+
+
 
 # Experience
 
@@ -52,6 +59,10 @@ redirect_from:
 ### Internship
 
 * Guangzhou ShiningMidas Private Fund ([Likelihood Lab](http://www.maxlikelihood.cn/)), *Quantitative Investment Researcher* on financial natural language processing (NLP), Summer 2019.  [[Gitee](https://gitee.com/likelihoodlab/NLP2019)]
+
+
+
+***
 
 
 
