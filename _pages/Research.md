@@ -21,5 +21,5 @@ Working Papers
 
 Publications
 ======
-* Jianhao Lin, Ziwei Mei, Liangyuan Chen, Chuanqi Zhu, "[Is the People's Bank of China consistent in words and deeds?](https://www.sciencedirect.com/science/article/pii/S1043951X23000044)", *China Economic Review* (2023). In press.  
+* Jianhao Lin, Ziwei Mei, Liangyuan Chen, Chuanqi Zhu, "[Is the People's Bank of China consistent in words and deeds?](https://www.sciencedirect.com/science/article/pii/S1043951X23000044)", *China Economic Review* (2023). 
 
