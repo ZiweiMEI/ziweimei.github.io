@@ -45,13 +45,13 @@ redirect_from:
 
 # Professional Services
 
-* **Referee** for *Journal of American Statistical Association*.
+* **Referee** for *Journal of the American Statistical Association*.
 
 ***
 
 
 
-# Experience
+# Experiences
 
 ### Teaching Assistant
 
