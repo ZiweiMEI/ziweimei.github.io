@@ -9,10 +9,10 @@ author_profile: true
 
 # Packages for Papers 
 
-### Q Test 
+### PM Test 
 
-*  Overidentifying Restriction Test in High Dimensions [[Fan, Guo, Mei (2022)](https://arxiv.org/abs/2205.00171)]
-*  <span style="color:purple">`R`</span> [[Repo](https://github.com/ZiweiMEI/QTest)]
+*  Overidentifying Restriction Test in High Dimensions [[Fan, Guo, Mei (2023)](https://arxiv.org/abs/2205.00171)]
+*  <span style="color:purple">`R`</span> [[Repo](https://github.com/ZiweiMEI/PMtest)]
 
 ### bHP
 
