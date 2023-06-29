@@ -16,11 +16,28 @@ redirect_from:
 # Education
 
 * Ph.D in Economics, Department of Economics, the Chinese University of Hong Kong, 2020 - present.
-* Bachelor in Economics, Lingnan College, Sun Yat-Sen University, 2016 - 2020. 
-* Bachelor in Mathematics, School of Mathematics, Sun Yat-Sen University, 2018 - 2020. 
+* Bachelor in Economics, Lingnan College, Sun Yat-Sen University, 2016-2020. 
+* Bachelor in Mathematics, School of Mathematics, Sun Yat-Sen University, 2018-2020. 
 
 
 
+
+***
+
+
+
+# Presentations
+
+### Conferences
+
+* Computational and Financial Econometrics (CFE), Session CO224, King's College London, December 2022. 
+* Computational and Methodological Statistics (CMStatistics), Session EO050, King's College London, December 2022. 
+* The Asian Meeting of the Econometric Society (AMES), CUHKSZ, June 2022. 
+* Chicago-Jinan IESR-HCEO Best Paper Competition, Jinan University, July 2019.
+
+### Seminars
+
+* CUHK Brownbag Seminar, November 2022.
 
 ***
 
@@ -29,24 +46,6 @@ redirect_from:
 # Professional Services
 
 * **Referee** for *Journal of the American Statistical Association*.
-
-***
-
-
-
-# Presentations
-
-### Conferences & Workshops
-
-* The 7th IAER Econometrics Workshop, DUFE, June 2023.
-* Computational and Financial Econometrics (CFE), Session CO224, King's College London, December 2022. 
-* Computational and Methodological Statistics (CMStatistics), Session EO050, King's College London, December 2022. 
-* The Asian Meeting of the Econometric Society (AMES China), CUHKSZ, June 2022. 
-* Chicago-Jinan IESR-HCEO Best Paper Competition, Jinan University, July 2019.
-
-### Seminars
-
-* CUHK Brownbag Seminar, November 2022.
 
 ***
 
