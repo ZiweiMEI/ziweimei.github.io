@@ -26,10 +26,19 @@ redirect_from:
 
 
 
+# Professional Services
+
+* **Referee** for *Journal of the American Statistical Association*.
+
+***
+
+
+
 # Presentations
 
-### Conferences
+### Conferences & Workshops
 
+* The 7th IAER Econometrics Workshop, DUFE, June 2023.
 * Computational and Financial Econometrics (CFE), Session CO224, King's College London, December 2022. 
 * Computational and Methodological Statistics (CMStatistics), Session EO050, King's College London, December 2022. 
 * The Asian Meeting of the Econometric Society (AMES), CUHKSZ, June 2022. 
@@ -38,14 +47,6 @@ redirect_from:
 ### Seminars
 
 * CUHK Brownbag Seminar, November 2022.
-
-***
-
-
-
-# Professional Services
-
-* **Referee** for *Journal of the American Statistical Association*.
 
 ***
 
