@@ -20,7 +20,13 @@ redirect_from:
 * Bachelor in Mathematics, School of Mathematics, Sun Yat-Sen University, 2018-2020. 
 
 
+***
 
+
+
+# Professional Services
+
+* **Referee** for *Journal of the American Statistical Association*.
 
 ***
 
@@ -38,14 +44,6 @@ redirect_from:
 ### Seminars
 
 * CUHK Brownbag Seminar, November 2022.
-
-***
-
-
-
-# Professional Services
-
-* **Referee** for *Journal of the American Statistical Association*.
 
 ***
 
