@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-[[PDF](http://ziweimei.github.io/cv.pdf)]
+[[PDF](http://ziweimei.github.io/cv_zwmei.pdf)]
 
 ***
 
@@ -36,10 +36,10 @@ redirect_from:
 
 ### Conferences
 
-* The 7th IAER Econometrics Workshop, DUFE, 2023.
+* The 7th IAER Econometrics Workshop, DUFE, June 2023.
 * Computational and Financial Econometrics (CFE), Session CO224, King's College London, December 2022. 
 * Computational and Methodological Statistics (CMStatistics), Session EO050, King's College London, December 2022. 
-* The Asian Meeting of the Econometric Society (AMES), CUHKSZ, June 2022. 
+* The Asian Meeting of the Econometric Society (AMES China), CUHKSZ, June 2022. 
 * Chicago-Jinan IESR-HCEO Best Paper Competition, Jinan University, July 2019.
 
 ### Seminars
