@@ -36,11 +36,11 @@ redirect_from:
 
 ### Conferences
 
-* The International Symposium on Econometric Theory and Applications (SETA), "A Heteroskedastic-Robust Overidentifying Restrictions Test with High-Dimensional Covariates", July 2023. 
+* The International Symposium on Econometric Theory and Applications (SETA), "A Heteroskedasticity-Robust Overidentifying Restrictions Test with High-Dimensional Covariates", July 2023. 
 * The 7th IAER Econometrics Workshop, "Uniform Inference for Nonlinear Endogenous Effects with High-Dimensional Covariates", DUFE, June 2023.
 * Computational and Financial Econometrics (CFE), “On LASSO for High Dimensional Predictive Regression”. King's College London, December 2022. 
-* Computational and Methodological Statistics (CMStatistics), "A Heteroskedastic-Robust Overidentifying Restrictions Test with High-Dimensional Covariates", King's College London, December 2022. 
-* The Asian Meeting of the Econometric Society (AMES China), "A Heteroskedastic-Robust Overidentifying Restrictions Test with High-Dimensional Covariates", CUHKSZ, June 2022. 
+* Computational and Methodological Statistics (CMStatistics), "A Heteroskedasticity-Robust Overidentifying Restrictions Test with High-Dimensional Covariates", King's College London, December 2022. 
+* The Asian Meeting of the Econometric Society (AMES China), "A Heteroskedasticity-Robust Overidentifying Restrictions Test with High-Dimensional Covariates", CUHKSZ, June 2022. 
 * Chicago-Jinan IESR-HCEO Best Paper Competition, Jinan University, July 2019.
 
 ### Seminars
