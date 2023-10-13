@@ -10,7 +10,7 @@ author_profile: true
 Working Papers
 ======
 
-* "Uniform Inference for Nonlinear Endogenous Effects with High-Dimensional Covariates“, with Qingliang Fan, Zijian Guo and Cun-Hui Zhang, 2023. Draft coming soon. 
+* "[Uniform Inference for Nonlinear Endogenous Effects with High-Dimensional Covariates](http://arxiv.org/abs/2310.08063)“, with Qingliang Fan, Zijian Guo and Cun-Hui Zhang, 2023.
 * "[A Heteroskedasticity-Robust Overidentifying Restriction Test with High-Dimensional Covariates](https://arxiv.org/abs/2205.00171)'', with Qingliang Fan and Zijian Guo, 2023. ([Earlier Version](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4097813))
 * "[Implicit Nickell Bias in Panel Local Projection: Finanial Crises Are Worse Than You Think](https://arxiv.org/abs/2302.13455)'', with Liugang Sheng and Zhentao Shi, 2023. 
 * "[On LASSO for High Dimensional Predictive Regression](https://arxiv.org/abs/2212.07052)'', with Zhentao Shi, 2022.  
