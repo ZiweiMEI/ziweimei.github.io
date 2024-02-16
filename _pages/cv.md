@@ -34,9 +34,14 @@ redirect_from:
 
 # Presentations
 
+### Seminars
+
+* Center for Causal Inference (CCI) Seminar, Upenn, February 2024. 
+* CUHK Brownbag Seminar, November 2022.
+
 ### Conferences
 
-* Computational and Methodological Statistics (*CMStatistics 2023), HTW Berlin, December 2023. 
+* Computational and Methodological Statistics (CMStatistics 2023), HTW Berlin, December 2023. 
 * 2023 Hangzhou International Conference on Frontiers of Data Science, Zhejiang University, August 2023. 
 * The 2023 Asian Meeting of the Econometric Society in East and Southeast Asia (*AMES 2023, Singapore*), Nanyang Technological University, July 2023. 
 * The International Symposium on Econometric Theory and Applications (*SETA 2023*), Singapore Management University, July 2023. 
@@ -44,10 +49,6 @@ redirect_from:
 * Computational and Methodological Statistics (*CMStatistics 2022*), King's College London, December 2022. 
 * The Asian Meeting of the Econometric Society (*AMES China 2022*), CUHKSZ, June 2022. 
 * Chicago-Jinan IESR-HCEO Best Paper Competition, Jinan University, July 2019.
-
-### Seminars
-
-* CUHK Brownbag Seminar, November 2022.
 
 ***
 
