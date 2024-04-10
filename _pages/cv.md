@@ -16,6 +16,7 @@ redirect_from:
 # Education
 
 * Ph.D in Economics, Department of Economics, the Chinese University of Hong Kong, 2020 - present.
+  * Visiting Ph.D. Student, Department of Statistics, University of Oxford, April - June, 2024.
 * Bachelor in Economics, Lingnan College, Sun Yat-Sen University, 2016-2020. 
 * Bachelor in Mathematics, School of Mathematics, Sun Yat-Sen University, 2018-2020. 
 
@@ -41,6 +42,7 @@ redirect_from:
 
 ### Conferences
 
+* AMES China, Zhejiang University, June 2024. 
 * Computational and Methodological Statistics (CMStatistics 2023), HTW Berlin, December 2023. 
 * 2023 Hangzhou International Conference on Frontiers of Data Science, Zhejiang University, August 2023. 
 * The 2023 Asian Meeting of the Econometric Society in East and Southeast Asia (*AMES 2023, Singapore*), Nanyang Technological University, July 2023. 
