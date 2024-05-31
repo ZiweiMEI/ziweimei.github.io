@@ -37,6 +37,8 @@ redirect_from:
 
 ### Seminars
 
+* Oxford Economics, May 2024. 
+* Oxford Statistics, May 2024. 
 * Center for Causal Inference (CCI) Seminar, Upenn, February 2024. 
 * CUHK Brownbag Seminar, November 2022.
 
