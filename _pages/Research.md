@@ -13,7 +13,7 @@ Publications
 * Ziwei Mei, Zhentao Shi, "[On LASSO for High Dimensional Predictive Regression](https://arxiv.org/abs/2212.07052)'',  2024. Forthcoming at ***Journal of Econometrics***.   
 * Jianhao Lin, Ziwei Mei, Liangyuan Chen, Chuanqi Zhu, "[Is the People's Bank of China consistent in words and deeds?](https://www.sciencedirect.com/science/article/pii/S1043951X23000044)", ***China Economic Review*** (2023). 
 
-
+----
 
 
 
