@@ -3,7 +3,6 @@ layout: archive
 title: 
 permalink: /research/
 author_profile: true 
-nav_order: 5
 has_children: true
 ---
 
