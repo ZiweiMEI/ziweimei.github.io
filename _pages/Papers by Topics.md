@@ -1,12 +1,10 @@
 ---
 layout: archive
 title: Papers by Topics
-permalink: /papersbytopics
+permalink: /papersbytopics/
 author_profile: true 
 parent: Research
 ---
-
-{% include base_path %}
 
 Instrumental Variable
 ======
