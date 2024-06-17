@@ -3,7 +3,6 @@ layout: archive
 title: ""
 permalink: /papersbytopics/
 author_profile: true 
-parent: Research
 ---
 
 Instrumental Variable

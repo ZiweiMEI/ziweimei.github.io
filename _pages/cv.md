@@ -9,10 +9,6 @@ redirect_from:
 
 [[PDF](http://ziweimei.github.io/cv_zwmei.pdf)]
 
-***
-
-
-
 # Education
 
 * Ph.D in Economics, Department of Economics, the Chinese University of Hong Kong, 2020 - present.
