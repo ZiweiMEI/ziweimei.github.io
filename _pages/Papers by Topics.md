@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: 
+title: ""
 permalink: /papersbytopics/
 author_profile: true 
 parent: Research
