@@ -7,6 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
+[Click here for Papers by Topics](http://ziweimei.github.io/papersbytopics/)
+
 Publications
 ======
 
