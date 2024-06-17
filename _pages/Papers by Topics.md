@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: Papers by Topics
-permalink: 
+permalink: /papersbytopics
 author_profile: true 
 parent: Research
 ---
