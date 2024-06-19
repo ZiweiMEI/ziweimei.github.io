@@ -12,7 +12,7 @@ Instrumental Variable
 ======
 
 - "Robust Instrumental Analysis", with Qingliang Fan and Zijian Guo, 2024.
-- "[Uniform Inference for Nonlinear Endogenous Treatment Effects with High-Dimensional Covariates](http://arxiv.org/abs/2310.08063)“, with Qingliang Fan, Zijian Guo and Cun-Hui Zhang, 2023.
+- "[Inference for Nonlinear Endogenous Treatment Effects Accounting for High-Dimensional Covariate Complexity](http://arxiv.org/abs/2310.08063)“, with Qingliang Fan, Zijian Guo and Cun-Hui Zhang, 2024.
 - "[A Heteroskedasticity-Robust Overidentifying Restriction Test with High-Dimensional Covariates](https://arxiv.org/abs/2205.00171)'', with Qingliang Fan and Zijian Guo, 2023. ([Earlier Version](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4097813))
 
 Time Series
