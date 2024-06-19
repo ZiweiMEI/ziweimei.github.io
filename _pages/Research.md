@@ -21,10 +21,10 @@ Publications
 Working Papers
 ======
 
-4. "Nickell Meets Stambaugh: A Tale of Two Biases'', with Chengwang Liao and Zhentao Shi, 2024.  
-5. "On LASSO Inference for High Dimensional Predictive Regression", with Zhan Gao, Ji Hyung Lee and Zhentao Shi, 2024.
-6. "Robust Instrumental Analysis", with Qingliang Fan and Zijian Guo, 2024.
-7. "[Uniform Inference for Nonlinear Endogenous Treatment Effects with High-Dimensional Covariates](http://arxiv.org/abs/2310.08063)“, with Qingliang Fan, Zijian Guo and Cun-Hui Zhang, 2023.
+4. "[Inference for Nonlinear Endogenous Treatment Effects Accounting for High-Dimensional Covariate Complexity](http://arxiv.org/abs/2310.08063)“, with Qingliang Fan, Zijian Guo and Cun-Hui Zhang, 2024.
+5. "Nickell Meets Stambaugh: A Tale of Two Biases'', with Chengwang Liao and Zhentao Shi, 2024.  
+6. "On LASSO Inference for High Dimensional Predictive Regression", with Zhan Gao, Ji Hyung Lee and Zhentao Shi, 2024.
+7. "Robust Instrumental Analysis", with Qingliang Fan and Zijian Guo, 2024.
 8. "[A Heteroskedasticity-Robust Overidentifying Restriction Test with High-Dimensional Covariates](https://arxiv.org/abs/2205.00171)'', with Qingliang Fan and Zijian Guo, 2023. ([Earlier Version](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4097813))
 9. "[Nickell Bias in Panel Local Projection: Finanial Crises Are Worse Than You Think](https://arxiv.org/abs/2302.13455)'', with Liugang Sheng and Zhentao Shi, 2023. 
 
