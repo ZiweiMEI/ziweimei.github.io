@@ -11,7 +11,7 @@ I am currently a Ph.D. candidate at Department of Economics, the Chinese Univers
 
 In Spring 2024, I am a visiting Ph.D. student at Department of Statistics, University of Oxford.  
 
-I specialize in econometric theory. My current research focuses on statistical learning methods in instrumental variable regression and time series models. I am also interested in panel data analysis.  
+I specialize in econometric theory, with a keen interest in high-dimensional data. My current research focuses on causal inference with instrumental variables, and machine learning for nonstationary time series. I also have research works on robust inference for panel data.  
 
 
 

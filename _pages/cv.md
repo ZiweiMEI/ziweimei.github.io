@@ -21,6 +21,22 @@ redirect_from:
 
 
 
+# Research Interests
+
+* High-Dimensional Data
+
+* Causal Inference with Instrumental Variables
+
+* Machine Learning for Nonstationary Time Series
+
+* Robust Inference for Panel Data
+
+  ***
+
+  
+
+  
+
 # Referee Service
 
 * *Journal of the American Statistical Association*
@@ -40,6 +56,7 @@ redirect_from:
 
 ### Conferences
 
+* Workshop in Asian Summer School in Econometrics and Statistics, DUFE, July 2024.
 * AMES China, Zhejiang University, June 2024. 
 * Computational and Methodological Statistics (CMStatistics 2023), HTW Berlin, December 2023. 
 * 2023 Hangzhou International Conference on Frontiers of Data Science, Zhejiang University, August 2023. 
@@ -65,9 +82,7 @@ redirect_from:
 
 ### Internship
 
-* Guangzhou ShiningMidas Private Fund ([Likelihood Lab](http://www.maxlikelihood.cn/)), *Quantitative Investment Researcher* on financial natural language processing (NLP), Summer 2019.  [[Gitee](https://gitee.com/likelihoodlab/NLP2019)]
-
-
+* Guangzhou ShiningMidas Private Fund ([Likelihood Lab](http://www.maxlikelihood.cn/)), *Quantitative Investment Researcher* on financial natural language processing (NLP), Summer 2019.  [[Gitee](https://gitee.com/likelihoodlab/NL
 
 ***
 
