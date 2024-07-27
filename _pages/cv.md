@@ -82,7 +82,7 @@ redirect_from:
 
 ### Internship
 
-* Guangzhou ShiningMidas Private Fund ([Likelihood Lab](http://www.maxlikelihood.cn/)), *Quantitative Investment Researcher* on financial natural language processing (NLP), Summer 2019.  [[Gitee](https://gitee.com/likelihoodlab/NL
+* Guangzhou ShiningMidas Private Fund ([Likelihood Lab](http://www.maxlikelihood.cn/)), *Quantitative Investment Researcher* on financial natural language processing (NLP), Summer 2019.  [[Gitee](https://gitee.com/likelihoodlab/NL)]
 
 ***
 
