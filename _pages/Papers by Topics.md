@@ -12,14 +12,14 @@ Instrumental Variable
 ======
 
 - "Robust Instrumental Analysis", with Qingliang Fan and Zijian Guo, 2024.
-- "[Inference for Nonlinear Endogenous Treatment Effects Accounting for High-Dimensional Covariate Complexity](http://arxiv.org/abs/2310.08063)“, with Qingliang Fan, Zijian Guo and Cun-Hui Zhang, 2024.
-- Qingliang Fan, Zijian Guo, Ziwei Mei (2024). "[A Heteroskedasticity-Robust Overidentifying Restriction Test with High-Dimensional Covariates](https://arxiv.org/abs/2205.00171)'',  forthcoming at  ***Journal of Business & Economic Statistics***.
+- "[Inference for Nonlinear Endogenous Treatment Effects Accounting for High-Dimensional Covariate Complexity](http://arxiv.org/abs/2310.08063)“, with Qingliang Fan, Zijian Guo, and Cun-Hui Zhang, 2024.
+- Qingliang Fan, Zijian Guo, and Ziwei Mei (2024). "[A Heteroskedasticity-Robust Overidentifying Restriction Test with High-Dimensional Covariates](https://arxiv.org/abs/2205.00171)'',  forthcoming at  ***Journal of Business & Economic Statistics***.
 
 Time Series
 ======
 
 - Ziwei Mei and Zhentao Shi (2024). "[On LASSO for High Dimensional Predictive Regression](https://arxiv.org/abs/2212.07052)'',  forthcoming at  ***Journal of Econometrics***.   
-- Ziwei Mei, Peter C.B. Phillips and Zhentao Shi (2024). "[The Boosted HP Filter Is More General Than You Might Think](https://arxiv.org/abs/2209.09810)'', forthcoming at  ***Journal of Applied Econometrics***.
+- Ziwei Mei, Peter C.B. Phillips, and Zhentao Shi (2024). "[The boosted Hodrick‐Prescott filter is more general than you might think](https://onlinelibrary.wiley.com/doi/10.1002/jae.3086)'', ***Journal of Applied Econometrics***.
 - "On LASSO Inference for High Dimensional Predictive Regression", with Zhan Gao, Ji Hyung Lee and Zhentao Shi, 2024.
 
 Panel Data
