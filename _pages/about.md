@@ -20,7 +20,5 @@ I specialize in econometric theory, with a keen interest in high-dimensional dat
 * **Email**: <span>`zwmei[`</span><span style="color:red">`at`</span><span>`]link.cuhk.edu.hk`</span>
 * **Address**: 1017 Esther Lee Building, the Chinese University of Hong Kong, Shatin, New Territories, Hong Kong SAR, China
 
-```
-<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=0&t=n&d=Oa8jPA92TX2-hE4ZWijjjITlpkHzGzOQ6yOEzU7NGR8&co=2d78ad&ct=ffffff&cmo=3acc3a&cmn=ff5353"></script>
-```
+<a href='https://clustrmaps.com/site/1c06q'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=1&t=n&d=Oa8jPA92TX2-hE4ZWijjjITlpkHzGzOQ6yOEzU7NGR8'/></a>
 
