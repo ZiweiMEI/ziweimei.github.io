@@ -22,8 +22,8 @@ Publications<a href='https://clustrmaps.com/site/1c0rg'  title='Visit tracker'><
 Working Papers
 ======
 
-5. "[Inference for Nonlinear Endogenous Treatment Effects Accounting for High-Dimensional Covariate Complexity](http://arxiv.org/abs/2310.08063)“, with Qingliang Fan, Zijian Guo, and Cun-Hui Zhang, 2024.
-6. "Nickell Meets Stambaugh: A Tale of Two Biases'', with Chengwang Liao and Zhentao Shi, 2024.  
-7. "On LASSO Inference for High Dimensional Predictive Regression", with Zhan Gao, Ji Hyung Lee, and Zhentao Shi, 2024.
-8. "Robust Instrumental Analysis", with Qingliang Fan and Zijian Guo, 2024.
-9. "[Nickell Bias in Panel Local Projection: Finanial Crises Are Worse Than You Think](https://arxiv.org/abs/2302.13455)'', with Liugang Sheng and Zhentao Shi, 2023. 
+5. "[Nickell Bias in Panel Local Projection: Finanial Crises Are Worse Than You Think](https://arxiv.org/abs/2302.13455)'', with Liugang Sheng and Zhentao Shi, 2024. Revise & Resubmit at  ***Journal of International Economics***. 
+6. "[Inference for Nonlinear Endogenous Treatment Effects Accounting for High-Dimensional Covariate Complexity](http://arxiv.org/abs/2310.08063)“, with Qingliang Fan, Zijian Guo, and Cun-Hui Zhang, 2024.
+7. "Nickell Meets Stambaugh: A Tale of Two Biases'', with Chengwang Liao and Zhentao Shi, 2024.  
+8. "On LASSO Inference for High Dimensional Predictive Regression", with Zhan Gao, Ji Hyung Lee, and Zhentao Shi, 2024.
+9. "Robust Instrumental Analysis", with Qingliang Fan and Zijian Guo, 2024.

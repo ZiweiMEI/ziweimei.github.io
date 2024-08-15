@@ -26,7 +26,7 @@ Panel Data
 ======
 
 - "Nickell Meets Stambaugh: A Tale of Two Biases'', with Chengwang Liao and Zhentao Shi, 2024.  
-- "[Nickell Bias in Panel Local Projection: Finanial Crises Are Worse Than You Think](https://arxiv.org/abs/2302.13455)'', with Liugang Sheng and Zhentao Shi, 2023. 
+- "[Nickell Bias in Panel Local Projection: Finanial Crises Are Worse Than You Think](https://arxiv.org/abs/2302.13455)'', with Liugang Sheng and Zhentao Shi, 2024. Revise & Resubmit at  ***Journal of International Economics***. 
 
 Applied Text Analysis
 ======
