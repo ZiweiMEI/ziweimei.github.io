@@ -33,9 +33,16 @@ redirect_from:
 
   ***
 
-  
 
   
+
+# Grant
+
+- *Co-Investigator* for Social Science Faculty, the Chinese University of Hong Kong Direct Grant No.4052328, “Panel Predictive Regression with Persistent Regressors,” 2024-2026. 
+
+------
+
+
 
 # Referee Service
 
@@ -88,7 +95,7 @@ redirect_from:
 
 
 
-# Honors & Awards 
+# Awards 
 
 * Best Academic Performance Award, Department of Economics, CUHK.
 
@@ -102,7 +109,6 @@ redirect_from:
 
 * First-Class Excellence Scholarship, SYSU. 
 
-  
 
   
 
