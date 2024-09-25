@@ -16,7 +16,7 @@ I specialize in econometric theory, with a keen interest in high-dimensional dat
 I will be on the **2024/25 academic job market**. 
 
 
-# Contact <a><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=1.02&t=n&d=Oa8jPA92TX2-hE4ZWijjjITlpkHzGzOQ6yOEzU7NGR8&co=ffffff&ct=ffffff'/></a>
+# Contact<a><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=1.02&t=n&d=Oa8jPA92TX2-hE4ZWijjjITlpkHzGzOQ6yOEzU7NGR8&co=ffffff&ct=ffffff'/></a>
 
 * **Email**: <span>`zwmei[`</span><span style="color:red">`at`</span><span>`]link.cuhk.edu.hk`</span>
 * **Address**: 1017 Esther Lee Building, the Chinese University of Hong Kong, Shatin, New Territories, Hong Kong SAR, China
