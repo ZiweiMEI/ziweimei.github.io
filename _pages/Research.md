@@ -9,7 +9,7 @@ author_profile: true
 
 [Click here for Papers by Topics](http://ziweimei.github.io/papersbytopics/)
 
-Publications<a ><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=1.02&t=n&d=zjswNTN07E3lR2-qY7s9TxgJqTqTlVTGlc5j9SzQgtc&co=ffffff'/></a>
+Publications
 ======
 
 1. Ziwei Mei and Zhentao Shi (2024). "[On LASSO for High Dimensional Predictive Regression](https://www.sciencedirect.com/science/article/pii/S0304407624001556)'',  ***Journal of Econometrics***, *242*(2), 105809. [[ArXiv](https://arxiv.org/abs/2212.07052)]
@@ -23,8 +23,15 @@ Working Papers
 ======
 
 5. [**Job Market Paper**] "Taming the Zoo of Mixed Roots: On LASSO Inference for Predictability with High Dimensional Features", 2024.
+
 6. "[Nickell Bias in Panel Local Projection: Finanial Crises Are Worse Than You Think](https://arxiv.org/abs/2302.13455)'', with Liugang Sheng and Zhentao Shi, 2024. Revise & Resubmit at  ***Journal of International Economics***. 
+
 7. "[On LASSO Inference for High Dimensional Predictive Regression](https://arxiv.org/abs/2409.10030)", with Zhan Gao, Ji Hyung Lee, and Zhentao Shi, 2024.
+
 8. "[Inference for Nonlinear Endogenous Treatment Effects Accounting for High-Dimensional Covariate Complexity](http://arxiv.org/abs/2310.08063)", with Qingliang Fan, Zijian Guo, and Cun-Hui Zhang, 2024.
+
 9. "Nickell Meets Stambaugh: A Tale of Two Biases'', with Chengwang Liao and Zhentao Shi, 2024.  
+
 10. "Robust Instrumental Analysis", with Qingliang Fan and Zijian Guo, 2024.
+
+    <a ><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=1.02&t=n&d=zjswNTN07E3lR2-qY7s9TxgJqTqTlVTGlc5j9SzQgtc&co=ffffff'/></a>
