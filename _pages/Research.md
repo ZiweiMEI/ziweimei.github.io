@@ -25,6 +25,6 @@ Working Papers
 5. [**Job Market Paper**] "Taming the Zoo of Mixed Roots: On LASSO Inference for Predictability with High Dimensional Features", 2024.
 6. "[Nickell Bias in Panel Local Projection: Finanial Crises Are Worse Than You Think](https://arxiv.org/abs/2302.13455)'', with Liugang Sheng and Zhentao Shi, 2024. Revise & Resubmit at  ***Journal of International Economics***. 
 7. "[On LASSO Inference for High Dimensional Predictive Regression](https://arxiv.org/abs/2409.10030)", with Zhan Gao, Ji Hyung Lee, and Zhentao Shi, 2024.
-8. "[Inference for Nonlinear Endogenous Treatment Effects Accounting for High-Dimensional Covariate Complexity](http://arxiv.org/abs/2310.08063)“, with Qingliang Fan, Zijian Guo, and Cun-Hui Zhang, 2024.
+8. "[Inference for Nonlinear Endogenous Treatment Effects Accounting for High-Dimensional Covariate Complexity](http://arxiv.org/abs/2310.08063)", with Qingliang Fan, Zijian Guo, and Cun-Hui Zhang, 2024.
 9. "Nickell Meets Stambaugh: A Tale of Two Biases'', with Chengwang Liao and Zhentao Shi, 2024.  
 10. "Robust Instrumental Analysis", with Qingliang Fan and Zijian Guo, 2024.
