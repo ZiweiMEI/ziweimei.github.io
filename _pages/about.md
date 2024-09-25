@@ -18,7 +18,7 @@ I will be on the **2024/25 academic job market**.
 
 # Contact
 
-* **Email**: <span>`zwmei[`</span><span style="color:red">`at`</span><span>`]link`</span><span style="color:red">`[dot]`</span>`cuhk`</span><span style="color:red">`[dot]`</span>`edu`</span><span style="color:red">`[at]`</span>`hk`</span>
+* **Email**: <span>`zwmei[`</span><span style="color:red">`at`</span><span>`]link[`</span><span style="color:red">`dot`</span><span>`]cuhk[`</span><span style="color:red">`dot`</span><span>`]edu[`</span><span style="color:red">`dot`</span><span>`]hk`</span>
 * **Address**: 1017 Esther Lee Building, the Chinese University of Hong Kong, Shatin, New Territories, Hong Kong SAR, China
 
 
