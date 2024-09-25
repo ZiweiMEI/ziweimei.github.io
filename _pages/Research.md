@@ -9,7 +9,7 @@ author_profile: true
 
 [Click here for Papers by Topics](http://ziweimei.github.io/papersbytopics/)
 
-Publications
+Publications<a ><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=1.02&t=n&d=zjswNTN07E3lR2-qY7s9TxgJqTqTlVTGlc5j9SzQgtc&co=ffffff'/></a>
 ======
 
 1. Ziwei Mei and Zhentao Shi (2024). "[On LASSO for High Dimensional Predictive Regression](https://www.sciencedirect.com/science/article/pii/S0304407624001556)'',  ***Journal of Econometrics***.   
