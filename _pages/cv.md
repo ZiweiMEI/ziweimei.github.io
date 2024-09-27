@@ -23,7 +23,7 @@ redirect_from:
 
 # Research Interests
 
-* High-Dimensional Data
+* High-Dimensional Econometrics and Statistics
 
 * Causal Inference with Instrumental Variables
 
