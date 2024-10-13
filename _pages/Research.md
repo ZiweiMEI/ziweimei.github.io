@@ -34,4 +34,4 @@ Working Papers
 
 10. "Robust Instrumental Analysis", with Qingliang Fan and Zijian Guo, 2024.
 
-    <a ><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=0&t=n&d=zjswNTN07E3lR2-qY7s9TxgJqTqTlVTGlc5j9SzQgtc&co=ffffff'/></a>
+    <a ><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=1.02&t=n&d=zjswNTN07E3lR2-qY7s9TxgJqTqTlVTGlc5j9SzQgtc&co=ffffff'/></a>
