@@ -38,7 +38,7 @@ redirect_from:
 
 # Grant
 
-- *Co-Investigator* for Social Science Faculty, the Chinese University of Hong Kong Direct Grant No.4052328, “Panel Predictive Regression with Persistent Regressors,” 2024-2026. 
+- (*Co-Investigator*) Social Science Faculty, the Chinese University of Hong Kong Direct Grant No.4052328, “Panel Predictive Regression with Persistent Regressors,” 2024-2026. 
 
 ------
 
@@ -46,7 +46,7 @@ redirect_from:
 
 # Referee Service
 
-* *Journal of the American Statistical Association*
+* *Journal of the American Statistical Association*, *Econometric Reviews*
 
 ***
 
