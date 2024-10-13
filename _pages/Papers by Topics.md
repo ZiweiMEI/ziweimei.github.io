@@ -20,12 +20,12 @@ Time Series
 
 - Ziwei Mei and Zhentao Shi (2024). "[On LASSO for High Dimensional Predictive Regression](https://arxiv.org/abs/2212.07052)'',  forthcoming at  ***Journal of Econometrics***.   
 - Ziwei Mei, Peter C.B. Phillips, and Zhentao Shi (2024). "[The boosted Hodrick‐Prescott filter is more general than you might think](https://onlinelibrary.wiley.com/doi/10.1002/jae.3086)'', ***Journal of Applied Econometrics***.
-- "On LASSO Inference for High Dimensional Predictive Regression", with Zhan Gao, Ji Hyung Lee and Zhentao Shi, 2024.
+- "[On LASSO Inference for High Dimensional Predictive Regression](https://arxiv.org/abs/2409.10030)", with Zhan Gao, Ji Hyung Lee, and Zhentao Shi, 2024.
 
 Panel Data
 ======
 
-- "Nickell Meets Stambaugh: A Tale of Two Biases'', with Chengwang Liao and Zhentao Shi, 2024.  
+- "[Nickell Meets Stambaugh: A Tale of Two Biases in Panel Predictive Regressions](https://www.researchgate.net/publication/384869118_Nickell_Meets_Stambaugh_A_Tale_of_Two_Biases_in_Panel_Predictive_Regressions?channel=doi&linkId=670b278c68e0f20a611068ab&showFulltext=true)'', with Chengwang Liao and Zhentao Shi, 2024.  [[Supplement](https://www.researchgate.net/publication/384868607_Supplementary_Material_to_Nickell_Meets_Stambaugh_A_Tale_of_Two_Biases_in_Panel_Predictive_Regressions?channel=doi&linkId=670b1cd7dc91726ad38e47ac&showFulltext=true)]
 - "[Nickell Bias in Panel Local Projection: Finanial Crises Are Worse Than You Think](https://arxiv.org/abs/2302.13455)'', with Liugang Sheng and Zhentao Shi, 2024. Revise & Resubmit at  ***Journal of International Economics***. 
 
 Applied Text Analysis
