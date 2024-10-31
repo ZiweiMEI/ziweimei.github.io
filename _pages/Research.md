@@ -22,7 +22,7 @@ Publications
 Working Papers
 ======
 
-5. [**Job Market Paper**] "[Simultaneous Inference for Predictability with High Dimensional Mixed Roots](https://ziweimei.github.io/HDMixedRoot.pdf)", 2024.
+5. [**Job Market Paper**] "[Simultaneous Inference for Predictability with High Dimensional Mixed Roots](https://ziweimei.github.io/HDMixedRoots.pdf)", 2024.
 
 6. "[Nickell Bias in Panel Local Projection: Finanial Crises Are Worse Than You Think](https://arxiv.org/abs/2302.13455)'', with Liugang Sheng and Zhentao Shi, 2024. Revise & Resubmit at  ***Journal of International Economics***. 
 
