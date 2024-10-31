@@ -22,7 +22,7 @@ Publications
 Working Papers
 ======
 
-5. [**Job Market Paper**] "Simultaneous Inference for Predictability with High Dimensional Mixed Roots", 2024.
+5. [**Job Market Paper**] "[Simultaneous Inference for Predictability with High Dimensional Mixed Roots](https://ziweimei.github.io/HDMixedRoot.pdf)", 2024.
 
 6. "[Nickell Bias in Panel Local Projection: Finanial Crises Are Worse Than You Think](https://arxiv.org/abs/2302.13455)'', with Liugang Sheng and Zhentao Shi, 2024. Revise & Resubmit at  ***Journal of International Economics***. 
 
@@ -32,6 +32,6 @@ Working Papers
 
 9. "[Inference for Nonlinear Endogenous Treatment Effects Accounting for High-Dimensional Covariate Complexity](http://arxiv.org/abs/2310.08063)", with Qingliang Fan, Zijian Guo, and Cun-Hui Zhang, 2024. 
 
-10. "Robust Instrumental Analysis", with Qingliang Fan and Zijian Guo, 2024.
+10. "Identification Conditions and Uniform Inference for Multiple Treatment Effects with Possibly Invalid Instrumental Variables", with Qingliang Fan and Zijian Guo, 2024.
 
     <a ><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=1.02&t=n&d=zjswNTN07E3lR2-qY7s9TxgJqTqTlVTGlc5j9SzQgtc&co=ffffff'/></a>

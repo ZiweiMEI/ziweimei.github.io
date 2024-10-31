@@ -11,13 +11,14 @@ parent: Research
 Instrumental Variable
 ======
 
-- "Robust Instrumental Analysis", with Qingliang Fan and Zijian Guo, 2024.
+- "Identification Conditions and Uniform Inference for Multiple Treatment Effects with Possibly Invalid Instrumental Variables", with Qingliang Fan and Zijian Guo, 2024.
 - "[Inference for Nonlinear Endogenous Treatment Effects Accounting for High-Dimensional Covariate Complexity](http://arxiv.org/abs/2310.08063)“, with Qingliang Fan, Zijian Guo, and Cun-Hui Zhang, 2024.
 - Qingliang Fan, Zijian Guo, and Ziwei Mei (2024). "[A Heteroskedasticity-Robust Overidentifying Restriction Test with High-Dimensional Covariates](https://www.tandfonline.com/doi/full/10.1080/07350015.2024.2388654)",  forthcoming at  ***Journal of Business & Economic Statistics***.
 
 Time Series
 ======
 
+- [**Job Market Paper**] "[Simultaneous Inference for Predictability with High Dimensional Mixed Roots](https://ziweimei.github.io/HDMixedRoot.pdf)", 2024.
 - Ziwei Mei and Zhentao Shi (2024). "[On LASSO for High Dimensional Predictive Regression](https://arxiv.org/abs/2212.07052)'',  forthcoming at  ***Journal of Econometrics***.   
 - Ziwei Mei, Peter C.B. Phillips, and Zhentao Shi (2024). "[The boosted Hodrick‐Prescott filter is more general than you might think](https://onlinelibrary.wiley.com/doi/10.1002/jae.3086)'', ***Journal of Applied Econometrics***.
 - "[On LASSO Inference for High Dimensional Predictive Regression](https://arxiv.org/abs/2409.10030)", with Zhan Gao, Ji Hyung Lee, and Zhentao Shi, 2024.

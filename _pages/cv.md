@@ -82,6 +82,7 @@ redirect_from:
 
 ### Teaching Assistant
 
+* ECON5120 *Econometric Theory and Applications* (PhD Level), The Chinese University of Hong Kong, Fall 2024.
 * ECON4120 *Applied Forecasting Methods*, The Chinese University of Hong Kong, Spring 2023, Spring 2022.
 * ECON3121 *Introductory Econometrics*, The Chinese University of Hong Kong,
   Fall 2023, Fall 2022, Fall 2021, Spring 2020.
