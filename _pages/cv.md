@@ -46,7 +46,7 @@ redirect_from:
 
 # Referee Service
 
-* *Journal of the American Statistical Association, *Electronic Journal of Statistics*, *Econometric Reviews*
+* *Journal of the American Statistical Association, Electronic Journal of Statistics*, *Econometric Reviews*
 
 ***
 
