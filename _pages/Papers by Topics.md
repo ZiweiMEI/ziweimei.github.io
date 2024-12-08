@@ -21,7 +21,7 @@ Time Series
 - [**Job Market Paper**] "[Simultaneous Inference for Predictability with High Dimensional Mixed Roots](https://ziweimei.github.io/HDMixedRoots.pdf)", 2024.
 - Ziwei Mei and Zhentao Shi (2024). "[On LASSO for High Dimensional Predictive Regression](https://arxiv.org/abs/2212.07052)'',  forthcoming at  ***Journal of Econometrics***.   
 - Ziwei Mei, Peter C.B. Phillips, and Zhentao Shi (2024). "[The boosted Hodrick‐Prescott filter is more general than you might think](https://onlinelibrary.wiley.com/doi/10.1002/jae.3086)'', ***Journal of Applied Econometrics***.
-- "[Econometric Inference for High Dimensional Predictive Regression](https://arxiv.org/abs/2409.10030)", with Zhan Gao, Ji Hyung Lee, and Zhentao Shi, 2024.
+- "[Econometric Inference for High Dimensional Predictive Regressions](https://arxiv.org/abs/2409.10030)", with Zhan Gao, Ji Hyung Lee, and Zhentao Shi, 2024.
 
 Panel Data
 ======

@@ -46,7 +46,7 @@ redirect_from:
 
 # Referee Service
 
-* *Journal of the American Statistical Association*, *Econometric Reviews*
+* *Journal of the American Statistical Association, *Electronic Journal of Statistics*, *Econometric Reviews*
 
 ***
 
@@ -63,6 +63,7 @@ redirect_from:
 
 ### Conferences
 
+* The Inaugural Meeting of the Great Bay Econometrics Study Group, University of Macau, November 2024.
 * Workshop in Asian Summer School in Econometrics and Statistics, DUFE, July 2024.
 * AMES China, Zhejiang University, June 2024. 
 * Computational and Methodological Statistics (CMStatistics 2023), HTW Berlin, December 2023. 
