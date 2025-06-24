@@ -11,7 +11,7 @@ redirect_from:
 
 # Education
 
-* Ph.D in Economics, Department of Economics, the Chinese University of Hong Kong, 2020 - present.
+* Ph.D in Economics, Department of Economics, the Chinese University of Hong Kong, 2020 - 2025.
   * Visiting Ph.D. Student, Department of Statistics, University of Oxford, Spring 2024.
 * Bachelor in Economics, Lingnan College, Sun Yat-Sen University, 2016-2020. 
 * Bachelor in Mathematics, School of Mathematics, Sun Yat-Sen University, 2018-2020. 
@@ -46,7 +46,7 @@ redirect_from:
 
 # Referee Service
 
-* *Journal of the American Statistical Association, Electronic Journal of Statistics*, *Econometric Reviews*
+* *Journal of the American Statistical Association, Econometric Theory, Electronic Journal of Statistics*, *Econometric Reviews*
 
 ***
 
@@ -63,6 +63,7 @@ redirect_from:
 
 ### Conferences
 
+* ​
 * The Inaugural Meeting of the Great Bay Econometrics Study Group, University of Macau, November 2024.
 * Workshop in Asian Summer School in Econometrics and Statistics, DUFE, July 2024.
 * AMES China, Zhejiang University, June 2024. 
@@ -99,16 +100,12 @@ redirect_from:
 
 # Awards 
 
-* Best Academic Performance Award, Department of Economics, CUHK.
-
+* Postgraduate Research Output Award, The Chinese University of Hong Kong. 
+* Best Academic Performance Award, Department of Economics, The Chinese University of Hong Kong. 
 * Postgraduate Studentship, CUHK, 2020 - present. 
-
 * University-Level Outstanding Bachelor Thesis (in Economics), SYSU, June 2020. 
-
 * Excellent Bachelor Thesis (in Mathematics), SYSU, June 2020.
-
 * Chicago-Jinan Joint Plan Best Paper, Jinan University, July 2019. 
-
 * First-Class Excellence Scholarship, SYSU. 
 
 

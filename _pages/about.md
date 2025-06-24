@@ -7,13 +7,11 @@ author_profile: true
 
 
 
-I am currently a Ph.D. candidate at Department of Economics, the Chinese University of Hong Kong. Before joining CUHK, I obtained my bachelor's  degree in economics and my double bachelor's degree in mathematics from Sun Yat-Sen Univerisity. 
+I recently received my Ph.D. degree in Economics from the Chinese University of Hong Kong. Before joining CUHK, I obtained my bachelor's  degree in economics and my double bachelor's degree in mathematics from Sun Yat-Sen Univerisity. 
 
-In Spring 2024, I am a visiting Ph.D. student at Department of Statistics, University of Oxford.  
+In Spring 2024, I was a visiting Ph.D. student at Department of Statistics, University of Oxford.  
 
 I specialize in econometric theory, with a keen interest in high-dimensional data. My current research focuses on causal inference with instrumental variables, and machine learning for nonstationary time series. I also work on robust inference for panel data.   
-
-I am on the **2024/25 academic job market**. 
 
 
 # Contact
