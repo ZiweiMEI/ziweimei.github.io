@@ -63,7 +63,6 @@ redirect_from:
 
 ### Conferences
 
-* ​
 * The Inaugural Meeting of the Great Bay Econometrics Study Group, University of Macau, November 2024.
 * Workshop in Asian Summer School in Econometrics and Statistics, DUFE, July 2024.
 * AMES China, Zhejiang University, June 2024. 
