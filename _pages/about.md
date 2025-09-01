@@ -7,17 +7,17 @@ author_profile: true
 
 
 
-I recently received my Ph.D. degree in Economics from the Chinese University of Hong Kong. Before joining CUHK, I obtained my bachelor's  degree in economics and my double bachelor's degree in mathematics from Sun Yat-Sen Univerisity. 
-
-In Spring 2024, I was a visiting Ph.D. student at Department of Statistics, University of Oxford.  
+I am an Assistant Professor in Business Economics at Faculty of Business Administration (FBA), University of Macau (UM). Before joining UM, I obtained by Ph.D. degree in Economics from the Chinese University of Hong Kong, and my double bachelor's  degree in economics and mathematics from Sun Yat-sen Univerisity. 
 
 I specialize in econometric theory, with a keen interest in high-dimensional data. My current research focuses on causal inference with instrumental variables, and machine learning for nonstationary time series. I also work on robust inference for panel data.   
+
+ 
 
 
 # Contact
 
-* **Email**: <span>`zwmei[`</span><span style="color:red">`at`</span><span>`]link[`</span><span style="color:red">`dot`</span><span>`]cuhk[`</span><span style="color:red">`dot`</span><span>`]edu[`</span><span style="color:red">`dot`</span><span>`]hk`</span>
-* **Address**: 1017 Esther Lee Building, the Chinese University of Hong Kong, Shatin, New Territories, Hong Kong SAR, China
+* **Email**: <span>`ziweimei[`</span><span style="color:red">`at`</span><span>`]um[`</span><span style="color:red">`dot`</span><span>`]edu[`</span><span style="color:red">`dot`</span><span>`]mo`</span>
+* **Address**: E22-1027, University of Macau, Macao SAR
 
 
 
