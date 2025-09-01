@@ -73,7 +73,9 @@ redirect_from:
 
 ### Conferences
 
-* The 2025 Econometric Society World Congress, Seoul, August 2025.
+* The 2025 World Congress of the Econometric Society (ESWC 2025), Seoul, Korea, August 2025.
+* The 3rd Joint Conference on Statistics and Data Science in China (2025 JCSDS), Hangzhou, July 2025.
+* The International Symposium on Econometric Theory and Applications (SETA), University of Macau, June 2025.
 * The Inaugural Meeting of the Great Bay Econometrics Study Group, University of Macau, November 2024.
 * Workshop in Asian Summer School in Econometrics and Statistics, DUFE, July 2024.
 * AMES China, Zhejiang University, June 2024. 
