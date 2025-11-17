@@ -10,10 +10,11 @@ author_profile: true
 Publications
 ======
 
-1. Ziwei Mei and Zhentao Shi (2024). "[On LASSO for High Dimensional Predictive Regression](https://www.sciencedirect.com/science/article/pii/S0304407624001556)'',  *Journal of Econometrics*, *242*(2), 105809. [[arXiv](https://arxiv.org/abs/2212.07052)]
-2. Qingliang Fan, Zijian Guo, and Ziwei Mei (2024). "[A Heteroskedasticity-Robust Overidentifying Restriction Test with High-Dimensional Covariates](https://www.tandfonline.com/doi/full/10.1080/07350015.2024.2388654)'',  *Journal of Business & Economic Statistics*, *43*(2), 413-422. [[arXiv](https://arxiv.org/abs/2205.00171)] 
-3. Ziwei Mei, Peter C.B. Phillips, and Zhentao Shi (2024). "[The boosted Hodrick‐Prescott filter is more general than you might think](https://onlinelibrary.wiley.com/doi/10.1002/jae.3086)'', *Journal of Applied Econometrics*, *39*(7), 1260-1281. [[arXiv](https://arxiv.org/abs/2209.09810)]
-4. Jianhao Lin, Ziwei Mei, Liangyuan Chen, and Chuanqi Zhu (2023), "[Is the People's Bank of China consistent in words and deeds?](https://www.sciencedirect.com/science/article/pii/S1043951X23000044)", *China Economic Review*. *78*, 101919.
+1. Ziwei Mei, Liugang Cheng, and Zhentao Shi (2025). "[Nickell Bias in Panel Local Projection: Finanial Crises Are Worse Than You Think](https://arxiv.org/abs/2302.13455)'', forthcoming at  *Journal of International Economics*. 
+2. Ziwei Mei and Zhentao Shi (2024). "[On LASSO for High Dimensional Predictive Regression](https://www.sciencedirect.com/science/article/pii/S0304407624001556)'',  *Journal of Econometrics*, *242*(2), 105809. [[arXiv](https://arxiv.org/abs/2212.07052)]
+3. Qingliang Fan, Zijian Guo, and Ziwei Mei (2024). "[A Heteroskedasticity-Robust Overidentifying Restriction Test with High-Dimensional Covariates](https://www.tandfonline.com/doi/full/10.1080/07350015.2024.2388654)'',  *Journal of Business & Economic Statistics*, *43*(2), 413-422. [[arXiv](https://arxiv.org/abs/2205.00171)] 
+4. Ziwei Mei, Peter C.B. Phillips, and Zhentao Shi (2024). "[The boosted Hodrick‐Prescott filter is more general than you might think](https://onlinelibrary.wiley.com/doi/10.1002/jae.3086)'', *Journal of Applied Econometrics*, *39*(7), 1260-1281. [[arXiv](https://arxiv.org/abs/2209.09810)]
+5. Jianhao Lin, Ziwei Mei, Liangyuan Chen, and Chuanqi Zhu (2023), "[Is the People's Bank of China consistent in words and deeds?](https://www.sciencedirect.com/science/article/pii/S1043951X23000044)", *China Economic Review*. *78*, 101919.
 
 
 
