@@ -23,8 +23,8 @@ redirect_from:
 
 * Ph.D. in Economics, Department of Economics, the Chinese University of Hong Kong, 2025.
   * Visiting Ph.D. Student, Department of Statistics, University of Oxford, Spring 2024.
-* Bachelor in Economics, Lingnan College, Sun Yat-Sen University, 2020. 
-* Bachelor in Mathematics, School of Mathematics, Sun Yat-Sen University, 2020. 
+* Bachelor in Economics, Lingnan College, Sun Yat-sen University, 2020. 
+* Bachelor in Mathematics, School of Mathematics, Sun Yat-sen University, 2020. 
 
 
 ***
@@ -48,6 +48,7 @@ redirect_from:
 
 # Grant
 
+- (PI) Start-up Research Grant, University of Macau. 
 - (*Co-Investigator*) Social Science Faculty, the Chinese University of Hong Kong Direct Grant No.4052328, “Panel Predictive Regression with Persistent Regressors,” 2024-2026. 
 
 ------
@@ -66,6 +67,7 @@ redirect_from:
 
 ### Seminars
 
+* CUHKSZ, November 2025. 
 * Oxford Economics, May 2024. 
 * Oxford Statistics, May 2024. 
 * Center for Causal Inference (CCI) Seminar, Upenn, February 2024. 
@@ -73,20 +75,24 @@ redirect_from:
 
 ### Conferences
 
-* The 2025 World Congress of the Econometric Society (ESWC 2025), Seoul, Korea, August 2025.
-* The 3rd Joint Conference on Statistics and Data Science in China (2025 JCSDS), Hangzhou, July 2025.
-* The International Symposium on Econometric Theory and Applications (SETA), University of Macau, June 2025.
-* The Inaugural Meeting of the Great Bay Econometrics Study Group, University of Macau, November 2024.
-* Workshop in Asian Summer School in Econometrics and Statistics, DUFE, July 2024.
-* AMES China, Zhejiang University, June 2024. 
-* Computational and Methodological Statistics (CMStatistics 2023), HTW Berlin, December 2023. 
-* 2023 Hangzhou International Conference on Frontiers of Data Science, Zhejiang University, August 2023. 
-* The 2023 Asian Meeting of the Econometric Society in East and Southeast Asia (*AMES 2023, Singapore*), Nanyang Technological University, July 2023. 
-* The International Symposium on Econometric Theory and Applications (*SETA 2023*), Singapore Management University, July 2023. 
-* The 7th IAER Econometrics Workshop, DUFE, June 2023.
-* Computational and Methodological Statistics (*CMStatistics 2022*), King's College London, December 2022. 
-* The Asian Meeting of the Econometric Society (*AMES China 2022*), CUHKSZ, June 2022. 
-* Chicago-Jinan IESR-HCEO Best Paper Competition, Jinan University, July 2019.
+* CityU Workshop in Econometrics and Statistics, CityUHK, January 2026.
+
+- ​
+- Annual Meeting of the Great Bay Econometrics Study Group, HKUST, December 2025.
+- The 2025 World Congress of the Econometric Society (ESWC 2025), Seoul, Korea, August 2025.
+- The 3rd Joint Conference on Statistics and Data Science in China (2025 JCSDS), Hangzhou, July 2025.
+- The International Symposium on Econometric Theory and Applications (SETA), University of Macau, June 2025.
+- The Inaugural Meeting of the Great Bay Econometrics Study Group, University of Macau, November 2024.
+- Workshop in Asian Summer School in Econometrics and Statistics, DUFE, July 2024.
+- AMES China, Zhejiang University, June 2024. 
+- Computational and Methodological Statistics (CMStatistics 2023), HTW Berlin, December 2023. 
+- 2023 Hangzhou International Conference on Frontiers of Data Science, Zhejiang University, August 2023. 
+- The 2023 Asian Meeting of the Econometric Society in East and Southeast Asia (*AMES 2023, Singapore*), Nanyang Technological University, July 2023. 
+- The International Symposium on Econometric Theory and Applications (*SETA 2023*), Singapore Management University, July 2023. 
+- The 7th IAER Econometrics Workshop, DUFE, June 2023.
+- Computational and Methodological Statistics (*CMStatistics 2022*), King's College London, December 2022. 
+- The Asian Meeting of the Econometric Society (*AMES China 2022*), CUHKSZ, June 2022. 
+- Chicago-Jinan IESR-HCEO Best Paper Competition, Jinan University, July 2019.
 
 ***
 
@@ -94,13 +100,19 @@ redirect_from:
 
 # Experiences
 
+### Course Instructor
+
+* BECO8011 *Econometric Analysis* (PhD Level), University of Macau, Fall 2025.
+* ECON7010 *Statistics and Financial Econometrics*, University of Macau, Fall 2025. 
+* ECON4004 *Applied Econometrics*, University of Macau, Spring 2026.
+
 ### Teaching Assistant
 
-* ECON5120 *Econometric Theory and Applications* (PhD Level), The Chinese University of Hong Kong, Fall 2024.
-* ECON4120 *Applied Forecasting Methods*, The Chinese University of Hong Kong, Spring 2023, Spring 2022.
-* ECON3121 *Introductory Econometrics*, The Chinese University of Hong Kong,
+- ECON5120 *Econometric Theory and Applications* (PhD Level), The Chinese University of Hong Kong, Fall 2024.
+- ECON4120 *Applied Forecasting Methods*, The Chinese University of Hong Kong, Spring 2023, Spring 2022.
+- ECON3121 *Introductory Econometrics*, The Chinese University of Hong Kong,
   Fall 2023, Fall 2022, Fall 2021, Spring 2020.
-* ECON2121 *Methods of Economic Statistics*, The Chinese University of Hong Kong, Fall 2020.
+- ECON2121 *Methods of Economic Statistics*, The Chinese University of Hong Kong, Fall 2020.
 
 ### Internship
 
