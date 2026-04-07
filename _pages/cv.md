@@ -76,8 +76,8 @@ redirect_from:
 ### Conferences
 
 * CityU Workshop in Econometrics and Statistics, CityUHK, January 2026.
+* Annual Meeting of the Great Bay Econometrics Study Group, HKUST, December 2025.
 
-- Annual Meeting of the Great Bay Econometrics Study Group, HKUST, December 2025.
 - The 2025 World Congress of the Econometric Society (ESWC 2025), Seoul, Korea, August 2025.
 - The 3rd Joint Conference on Statistics and Data Science in China (2025 JCSDS), Hangzhou, July 2025.
 - The International Symposium on Econometric Theory and Applications (SETA), University of Macau, June 2025.
