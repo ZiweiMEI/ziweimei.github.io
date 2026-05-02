@@ -57,7 +57,7 @@ redirect_from:
 
 # Referee Service
 
-* *Journal of the American Statistical Association, Econometric Theory, Electronic Journal of Statistics*, *Econometric Reviews*
+* *Econometric Reviews, Econometric Theory, Electronic Journal of Statistics, Journal of Applied Econometrics, Journal of Econometrics, Journal of the American Statistical Association*
 
 ***
 
@@ -67,14 +67,16 @@ redirect_from:
 
 ### Seminars
 
+* Sun Yat-sen University, April 2026.
 * CUHKSZ, November 2025. 
 * Oxford Economics, May 2024. 
 * Oxford Statistics, May 2024. 
 * Center for Causal Inference (CCI) Seminar, Upenn, February 2024. 
 * CUHK Brownbag Seminar, November 2022.
 
-### Conferences
+### Conferences and Workshops
 
+* Workshop on Financial Econometrics, University of Macau, January 2026.
 * CityU Workshop in Econometrics and Statistics, CityUHK, January 2026.
 * Annual Meeting of the Great Bay Econometrics Study Group, HKUST, December 2025.
 
