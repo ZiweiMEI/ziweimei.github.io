@@ -57,7 +57,7 @@ redirect_from:
 
 # Referee Service
 
-* *Econometric Reviews, Econometric Theory, Econometrics and Statistics, Electronic Journal of Statistics, Journal of Applied Econometrics, Journal of Econometrics, Journal of the American Statistical Association, TEST, Oxford Bulletin of Economics and Statistics*
+* *Econometric Reviews, Econometric Theory, Econometrics and Statistics, Electronic Journal of Statistics, Journal of Applied Econometrics, Journal of Econometrics, Journal of the American Statistical Association, Oxford Bulletin of Economics and Statistics, TEST*
 
 ***
 
