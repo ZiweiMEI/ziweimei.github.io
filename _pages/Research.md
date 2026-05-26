@@ -22,7 +22,7 @@ Publications
 Working Papers
 ======
 
-1. "[Nickell Meets Stambaugh: A Tale of Two Biases in Panel Predictive Regressions](https://www.researchgate.net/publication/384869118_Nickell_Meets_Stambaugh_A_Tale_of_Two_Biases_in_Panel_Predictive_Regressions?channel=doi&linkId=670b278c68e0f20a611068ab&showFulltext=true)'', with Chengwang Liao and Zhentao Shi, 2024.  [[Supplement](https://www.researchgate.net/publication/384868607_Supplementary_Material_to_Nickell_Meets_Stambaugh_A_Tale_of_Two_Biases_in_Panel_Predictive_Regressions?channel=doi&linkId=670b1cd7dc91726ad38e47ac&showFulltext=true)] Revision requested by  *Journal of Econometrics*. 
+1. "[Nickell Meets Stambaugh: A Tale of Two Biases in Panel Predictive Regressions](https://arxiv.org/pdf/2410.09825)'', with Chengwang Liao and Zhentao Shi, 2026. Revision requested by  *Journal of Econometrics*. 
 2. "[Inference for Nonlinear Endogenous Treatment Effects Accounting for High-Dimensional Covariate Complexity](http://arxiv.org/abs/2310.08063)", with Qingliang Fan, Zijian Guo, and Cun-Hui Zhang, 2024. 
 3. "Identification Conditions and Uniform Inference for Multiple Treatment Effects with Possibly Invalid Instrumental Variables", with Qingliang Fan and Zijian Guo, 2024.
 4. "Simultaneous Inference for Predictability with High Dimensional Mixed Roots", 2025.
