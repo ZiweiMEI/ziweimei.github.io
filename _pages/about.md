@@ -22,6 +22,6 @@ I specialize in econometric theory, with a keen interest in high-dimensional dat
 
 
 
-<a><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=1.02&t=n&d=Oa8jPA92TX2-hE4ZWijjjITlpkHzGzOQ6yOEzU7NGR8&co=ffffff&ct=ffffff'/></a>
+<!--<a><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=1.02&t=n&d=Oa8jPA92TX2-hE4ZWijjjITlpkHzGzOQ6yOEzU7NGR8&co=ffffff&ct=ffffff'/></a>-->
 
 
