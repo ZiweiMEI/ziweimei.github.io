@@ -27,4 +27,4 @@ Working Papers
 3. "Identification Conditions and Uniform Inference for Multiple Treatment Effects with Possibly Invalid Instrumental Variables", with Qingliang Fan and Zijian Guo, 2024.
 4. "Simultaneous Inference for Predictability with High Dimensional Mixed Roots", 2025.
 
-<!--<a ><img src="//www.clustrmaps.com/map_v2.png?cl=ffffff&w=1.02&t=n&d=zjswNTN07E3lR2-qY7s9TxgJqTqTlVTGlc5j9SzQgtc&cl=ffffff"></a>-->
+<!--<a ><img src="https://mapmyvisitors.com/map.png?cl=ffffff&w=1.02&t=n&d=va4_LQX5oVTxBBFa5eRDSK5KYt-67ooUkjuRRyUUrsM&co=ffffff"></a>-->
