@@ -25,6 +25,4 @@ Working Papers
 1. "[Identification and Robust Inference for Multiple Treatment Effects with Possibly Invalid Instruments](https://arxiv.org/abs/2607.21481)", with Qingliang Fan and Zijian Guo, 2026.
 2. "[Nickell Meets Stambaugh: A Tale of Two Biases in Panel Predictive Regressions](https://arxiv.org/pdf/2410.09825)'', with Chengwang Liao and Zhentao Shi, 2026. Revision requested by  *Journal of Econometrics*. 
 3. "[Inference for Nonlinear Endogenous Treatment Effects Accounting for High-Dimensional Covariate Complexity](http://arxiv.org/abs/2310.08063)", with Qingliang Fan, Zijian Guo, and Cun-Hui Zhang, 2024. 
-4. "Simultaneous Inference for Predictability with High Dimensional Mixed Roots", 2025.
-
-<a ><img src="https://mapmyvisitors.com/map.png?cl=ffffff&w=1.03&t=n&d=va4_LQX5oVTxBBFa5eRDSK5KYt-67ooUkjuRRyUUrsM&co=ffffff"></a>
+4. "Simultaneous Inference for Predictability with High Dimensional Mixed Roots", 2025. 
