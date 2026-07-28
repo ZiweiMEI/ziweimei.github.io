@@ -27,4 +27,4 @@ Working Papers
 3. "[Inference for Nonlinear Endogenous Treatment Effects Accounting for High-Dimensional Covariate Complexity](http://arxiv.org/abs/2310.08063)", with Qingliang Fan, Zijian Guo, and Cun-Hui Zhang, 2024. 
 4. "Simultaneous Inference for Predictability with High Dimensional Mixed Roots", 2025.
 
-<a ><img src="https://mapmyvisitors.com/map.png?cl=ffffff&w=1.02&t=n&d=va4_LQX5oVTxBBFa5eRDSK5KYt-67ooUkjuRRyUUrsM&co=ffffff"></a>
+<a ><img src="https://mapmyvisitors.com/map.png?cl=ffffff&w=1.03&t=n&d=va4_LQX5oVTxBBFa5eRDSK5KYt-67ooUkjuRRyUUrsM&co=ffffff"></a>
