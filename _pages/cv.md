@@ -103,8 +103,8 @@ redirect_from:
 
 ### Course Instructor
 
-* BECO8011 *Econometric Analysis* (PhD Level), University of Macau, Fall 2025.
-* ECON7010 *Statistics and Financial Econometrics*, University of Macau, Fall 2025. 
+* BECO8011 *Econometric Analysis* (PhD Level), University of Macau, Fall 2026, Fall 2025.
+* ECON7010 *Statistics and Financial Econometrics*, University of Macau, Fall 2026, Fall 2025.
 * ECON4004 *Applied Econometrics*, University of Macau, Spring 2026.
 
 ### Teaching Assistant
@@ -126,6 +126,7 @@ redirect_from:
 # Awards 
 
 * Postgraduate Research Output Award, The Chinese University of Hong Kong, 2025.
+* Best Thesis Award, The Chinese University of Hong Kong, 2025.
 * Best Academic Performance Award, Department of Economics, The Chinese University of Hong Kong, 2021.
 * Postgraduate Studentship, CUHK, 2020 - present. 
 * University-Level Outstanding Bachelor Thesis (in Economics), SYSU, June 2020. 
