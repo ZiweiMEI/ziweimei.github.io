@@ -44,12 +44,13 @@ redirect_from:
   ***
 
 
-  
+
 
 # Grant
 
-- (PI) Start-up Research Grant, University of Macau. 
-- (*Co-Investigator*) Social Science Faculty, the Chinese University of Hong Kong Direct Grant No.4052328, “Panel Predictive Regression with Persistent Regressors,” 2024-2026. 
+- (PI) National Natural Science Foundation of China (NSFC), The Young Scientists Fund (C), 2027-2029.
+- (PI) Start-up Research Grant, University of Macau, 2025-2027. 
+- (Co-I) Social Science Faculty, the Chinese University of Hong Kong Direct Grant No.4052328, “Panel Predictive Regression with Persistent Regressors,” 2024-2026. 
 
 ------
 
@@ -57,7 +58,7 @@ redirect_from:
 
 # Referee Service
 
-* *Econometric Reviews, Econometric Theory, Econometrics and Statistics, Electronic Journal of Statistics, Journal of Applied Econometrics, Journal of Econometrics, Journal of the American Statistical Association, Oxford Bulletin of Economics and Statistics, TEST*
+* *Econometric Reviews, Econometric Theory, Econometrics and Statistics, Electronic Journal of Statistics, Empirical Economics, Journal of Applied Econometrics, Journal of Business & Economic Statistics, Journal of Econometrics, Journal of the American Statistical Association, Oxford Bulletin of Economics and Statistics, Statistica Sinica, TEST*
 
 ***
 
@@ -65,35 +66,20 @@ redirect_from:
 
 # Presentations
 
-### Seminars
+### Seminars 
 
-* Sun Yat-sen University, April 2026.
-* CUHKSZ, November 2025. 
-* Oxford Economics, May 2024. 
-* Oxford Statistics, May 2024. 
-* Center for Causal Inference (CCI) Seminar, Upenn, February 2024. 
-* CUHK Brownbag Seminar, November 2022.
+- 2026: Sun Yat-sen University. 
+- 2025: CUHK Shenzhen. 
+- 2024: Oxford Economics, Oxford Statistics, Upenn Center for     Causal Inference (CCI), CUHK Brownbag Seminar. 
+- 2022: CUHK Brownbag Seminar.
 
-### Conferences and Workshops
+### Conferences and Workshops 
 
-* Workshop on Financial Econometrics, University of Macau, January 2026.
-* CityU Workshop in Econometrics and Statistics, CityUHK, January 2026.
-* Annual Meeting of the Great Bay Econometrics Study Group, HKUST, December 2025.
-
-- The 2025 World Congress of the Econometric Society (ESWC 2025), Seoul, Korea, August 2025.
-- The 3rd Joint Conference on Statistics and Data Science in China (2025 JCSDS), Hangzhou, July 2025.
-- The International Symposium on Econometric Theory and Applications (SETA), University of Macau, June 2025.
-- The Inaugural Meeting of the Great Bay Econometrics Study Group, University of Macau, November 2024.
-- Workshop in Asian Summer School in Econometrics and Statistics, DUFE, July 2024.
-- AMES China, Zhejiang University, June 2024. 
-- Computational and Methodological Statistics (CMStatistics 2023), HTW Berlin, December 2023. 
-- 2023 Hangzhou International Conference on Frontiers of Data Science, Zhejiang University, August 2023. 
-- The 2023 Asian Meeting of the Econometric Society in East and Southeast Asia (*AMES 2023, Singapore*), Nanyang Technological University, July 2023. 
-- The International Symposium on Econometric Theory and Applications (*SETA 2023*), Singapore Management University, July 2023. 
-- The 7th IAER Econometrics Workshop, DUFE, June 2023.
-- Computational and Methodological Statistics (*CMStatistics 2022*), King's College London, December 2022. 
-- The Asian Meeting of the Econometric Society (*AMES China 2022*), CUHKSZ, June 2022. 
-- Chicago-Jinan IESR-HCEO Best Paper Competition, Jinan University, July 2019.
+- 2026: Workshop on *Machine Learning of Economic and Financial Data *(Macau), AMES China (Hong Kong), SoFiE (Macau), The 12th Hong Kong Economic Association Biennial Conference (Macau), 2026 International Conference on Frontiers of Data Science (Hangzhou), Workshop on Financial Econometrics (Macau), CityU Workshop in Econometrics and Statistics (Hong Kong).
+- 2025: SETA 2025 (Macau), The 3rd Joint Conference on Statistics and Data Science in China (Hangzhou), 2025 Econometric Society World Congress (Seoul), 2025 Annual Meeting of the Greater Bay Econometrics Study Group (Hong Kong).
+- 2024: The Inaugural Meeting of the Great Bay Econometrics Study Group (Macau), Workshop at Asian Summer School in Econometrics and Statistics (Dalian), AMES China (Hangzhou). 
+- 2023: CMStatistics 2023 (Berlin), Hangzhou International Conference on Frontiers of Data Science (Hangzhou), AMES 2023 (Singapore), SETA 2023 (Singapore), The 7th IAER Econometrics Workshop (Dalian).
+- 2022: CMStatistics 2022 (London), AMES China 2022 (Shenzhen).
 
 ***
 
@@ -135,5 +121,4 @@ redirect_from:
 * First-Class Excellence Scholarship, SYSU. 
 
 
-  
 
