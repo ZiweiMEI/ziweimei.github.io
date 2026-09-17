@@ -68,7 +68,7 @@ redirect_from:
 
 ### Conferences and Workshops 
 
-- 2026: Workshop on *Machine Learning of Economic and Financial Data* (Macau), AMES China (Hong Kong), SoFiE (Macau), The 12th Hong Kong Economic Association Biennial Conference (Macau), 2026 International Conference on Frontiers of Data Science (Hangzhou), Workshop on Financial Econometrics (Macau), CityU Workshop in Econometrics and Statistics (Hong Kong).
+- 2026: EcoSta (Kyoto), Workshop on *Machine Learning of Economic and Financial Data* (Macau), AMES China (Hong Kong), SoFiE (Macau), The 12th Hong Kong Economic Association Biennial Conference (Macau), 2026 International Conference on Frontiers of Data Science (Hangzhou), Workshop on Financial Econometrics (Macau), CityU Workshop in Econometrics and Statistics (Hong Kong).
 - 2025: SETA 2025 (Macau), The 3rd Joint Conference on Statistics and Data Science in China (Hangzhou), 2025 Econometric Society World Congress (Seoul), 2025 Annual Meeting of the Greater Bay Econometrics Study Group (Hong Kong).
 - 2024: The Inaugural Meeting of the Great Bay Econometrics Study Group (Macau), Workshop at Asian Summer School in Econometrics and Statistics (Dalian), AMES China (Hangzhou). 
 - 2023: CMStatistics 2023 (Berlin), Hangzhou International Conference on Frontiers of Data Science (Hangzhou), AMES 2023 (Singapore), SETA 2023 (Singapore), The 7th IAER Econometrics Workshop (Dalian).
