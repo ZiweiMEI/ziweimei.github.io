@@ -48,7 +48,7 @@ redirect_from:
 
 # Grant
 
-- (PI) National Natural Science Foundation of China (NSFC), The Young Scientists Fund (C), 2027-2029.
+- (PI) National Natural Science Foundation of China (NSFC), The Young Scientists Fund (Category C), 2027-2029.
 - (PI) Start-up Research Grant, University of Macau, 2025-2027. 
 - (Co-I) Social Science Faculty, the Chinese University of Hong Kong Direct Grant No.4052328, “Panel Predictive Regression with Persistent Regressors,” 2024-2026. 
 
