@@ -66,13 +66,6 @@ redirect_from:
 
 # Presentations
 
-### Seminars 
-
-- 2026: Sun Yat-sen University. 
-- 2025: CUHK Shenzhen. 
-- 2024: Oxford Economics, Oxford Statistics, Upenn Center for     Causal Inference (CCI), CUHK Brownbag Seminar. 
-- 2022: CUHK Brownbag Seminar.
-
 ### Conferences and Workshops 
 
 - 2026: Workshop on *Machine Learning of Economic and Financial Data *(Macau), AMES China (Hong Kong), SoFiE (Macau), The 12th Hong Kong Economic Association Biennial Conference (Macau), 2026 International Conference on Frontiers of Data Science (Hangzhou), Workshop on Financial Econometrics (Macau), CityU Workshop in Econometrics and Statistics (Hong Kong).
@@ -80,6 +73,13 @@ redirect_from:
 - 2024: The Inaugural Meeting of the Great Bay Econometrics Study Group (Macau), Workshop at Asian Summer School in Econometrics and Statistics (Dalian), AMES China (Hangzhou). 
 - 2023: CMStatistics 2023 (Berlin), Hangzhou International Conference on Frontiers of Data Science (Hangzhou), AMES 2023 (Singapore), SETA 2023 (Singapore), The 7th IAER Econometrics Workshop (Dalian).
 - 2022: CMStatistics 2022 (London), AMES China 2022 (Shenzhen).
+
+### Seminars 
+
+- 2026: Sun Yat-sen University. 
+- 2025: CUHK Shenzhen. 
+- 2024: Oxford Economics, Oxford Statistics, Upenn Center for Causal Inference (CCI), CUHK Brownbag Seminar. 
+- 2022: CUHK Brownbag Seminar.
 
 ***
 
