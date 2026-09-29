@@ -58,7 +58,7 @@ redirect_from:
 
 # Referee Service
 
-* *Econometric Reviews, Econometric Theory, Econometrics and Statistics, Electronic Journal of Statistics, Empirical Economics, Journal of Applied Econometrics, Journal of Business & Economic Statistics, Journal of Econometrics, Journal of the American Statistical Association, Oxford Bulletin of Economics and Statistics, Statistica Sinica, TEST*
+* *Biometrics, Econometric Reviews, Econometric Theory, Econometrics and Statistics, Electronic Journal of Statistics, Empirical Economics, Journal of Applied Econometrics, Journal of Business & Economic Statistics, Journal of Econometrics, Journal of the American Statistical Association, Oxford Bulletin of Economics and Statistics, Statistica Sinica, TEST*
 
 ***
 
