@@ -31,6 +31,7 @@ Publications
 Working Papers
 ======
 
-1. "[Identification and Robust Inference for Multiple Treatment Effects with Possibly Invalid Instruments](https://arxiv.org/abs/2607.21481)", with Qingliang Fan and Zijian Guo, 2026.
+1. "[Cointegrated Regressors: Where Folded Concave Penalties Go Beyond LASSO](https://arxiv.org/abs/2610.14617)", with Hongqi Chen, Chengwang Liao, and Zhentao Shi, 2026.
+2. "[Identification and Robust Inference for Multiple Treatment Effects with Possibly Invalid Instruments](https://arxiv.org/abs/2607.21481)", with Qingliang Fan and Zijian Guo, 2026.
 3. "[Inference for Nonlinear Endogenous Treatment Effects Accounting for High-Dimensional Covariate Complexity](http://arxiv.org/abs/2310.08063)", with Qingliang Fan, Zijian Guo, and Cun-Hui Zhang, 2024. 
 4. "Simultaneous Inference for Predictability with High Dimensional Mixed Roots", 2025. 
