@@ -10,7 +10,7 @@ author_profile: true
 Publications
 ======
 
-1. Chengwang Liao, Ziwei Mei, and Zhentao Shi (2026). "[Nickell Meets Stambaugh: A Tale of Two Biases in Panel Predictive Regressions](https://doi.org/10.1016/j.jeconom.2026.106347)",  *Journal of Econometrics*, 258, 106347.  [[arXiv](https://arxiv.org/pdf/2410.09825)]
+1. Chengwang Liao, Ziwei Mei, and Zhentao Shi (2026). "[Nickell Meets Stambaugh: A Tale of Two Biases in Panel Predictive Regressions](https://doi.org/10.1016/j.jeconom.2026.106347)",  *Journal of Econometrics, 258,*  106347.  [[arXiv](https://arxiv.org/pdf/2410.09825)]
 
 2. Zhan Gao, Ji Hyung Lee, Ziwei Mei, and Zhentao Shi  (2026). "[LASSO Inference for High Dimensional Predictive Regressions](https://doi.org/10.1016/j.jeconom.2026.106240)",  *Journal of Econometrics, 255,* 106240. [[arXiv](https://arxiv.org/abs/2409.10030)]
 
